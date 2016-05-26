@@ -1,0 +1,5 @@
+Run the program by running WordProcessor.run_program
+
+Run the test cases:
+* Install gem rspec by running bundle install
+* run rspec spec/word_processor_spec.rb
