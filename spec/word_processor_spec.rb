@@ -1,5 +1,5 @@
 require 'spec_helper'
-load 'word_processor.rb'
+require 'word_processor'
 
 describe WordProcessor do
 
